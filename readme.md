@@ -16,11 +16,11 @@ acquired.
 ## Technologies Used
 ---
 [HTML](https://www.w3schools.com/html/)
-⋅⋅*HTML is used to create the clock face. 
+* HTML is used to create the clock face. 
 [CSS](https://www.w3schools.com/css/)
-⋅⋅* CSS is used to style the clock face. 
+* CSS is used to style the clock face. 
 [JavaScript](https://www.w3schools.com/js/)
-⋅⋅* Javascript is used to write the logic to make the clock hands move in real time. 
+* Javascript is used to write the logic to make the clock hands move in real time. 
 
 ## Installation 
 ---
@@ -29,5 +29,5 @@ acquired.
 
 ## Acknowledgements
 ---
-⋅⋅* This idea comes from [Wes Bos](https://javascript30.com/) 30 day coding challenge.
-⋅⋅* BAckground image taken from [Pexels.com](https://www.pexels.com/)
+* This idea comes from [Wes Bos](https://javascript30.com/) 30 day coding challenge.
+* Background image taken from [Pexels.com](https://www.pexels.com/)
