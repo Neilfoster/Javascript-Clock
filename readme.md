@@ -15,12 +15,9 @@ acquired.
 
 ## Technologies Used
 ---
-* [HTML](https://www.w3schools.com/html/)
-HTML is used to create the clock face. 
-* [CSS](https://www.w3schools.com/css/)
-CSS is used to style the clock face. 
-* [JavaScript](https://www.w3schools.com/js/)
-Javascript is used to write the logic to make the clock hands move in real time. 
+* [HTML](https://www.w3schools.com/html/) is used to create the clock face. 
+* [CSS](https://www.w3schools.com/css/) is used to style the clock face. 
+* [JavaScript](https://www.w3schools.com/js/) is used to write the logic to make the clock hands move in real time. 
 
 ## Installation 
 ---
