@@ -1,7 +1,7 @@
 # Javascript Clock
 ---
 
-Javascript clock is a simple web application that displays the clock hands in real time , simulating a real life clock.
+Javascript clock is a simple web application that displays the clock hands in real time, simulating a real life clock.
 
 ### Design 
 
